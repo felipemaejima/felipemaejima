@@ -16,4 +16,5 @@ Olá! Eu sou Luiz Felipe, um apaixonado por tecnologia, programação e open sou
 ## Entre em Contato
 Você pode me encontrar em:
 - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-maejima/)
+  
 Vamos nos conectar e colaborar em projetos incríveis!
