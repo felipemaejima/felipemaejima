@@ -3,6 +3,9 @@
 ## Sobre Mim
 Olá! Eu sou Luiz Felipe, um desenvolvedor buscando crescer e aprender cada vez mais na área de desenvolvimento de sistemas. Você pode conferir alguns dos meus projetos acessando meus repositórios!
 
+## Estatísticas
+![Estatistica](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaejima&theme=blue-green)
+
 ## Tecnologias que mais Utilizo
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
