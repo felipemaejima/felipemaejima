@@ -21,11 +21,11 @@ Breve descrição ou tagline do projeto.
 [![Estatísticas de Commits](link_para_o_gráfico_de_commits)](link_para_o_perfil_no_GitHub)
 
 ## Tecnologias que mais Utilizo
-![HTML5]([logotipo_html5.png](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
-![CSS3]([logotipo_css3.png](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
-![JavaScript]([logotipo_javascript.pn](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)g)
-![React]([logotipo_react.png](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
-![Node.js](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)g)
+![React](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+![Node.js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 entre outros...
