@@ -3,6 +3,8 @@
 ## Sobre Mim
 Olá! Eu sou Luiz Felipe, um desenvolvedor buscando crescer e aprender cada vez mais na área de desenvolvimento de sistemas. Você pode conferir alguns dos meus projetos acessando meus repositórios!
 
+## Estatísticas
+
 ![Estatisticas](https://github-readme-stats.vercel.app/api?username=felipemaejima&theme=blue-green)
 
 ## Tecnologias que mais Utilizo
