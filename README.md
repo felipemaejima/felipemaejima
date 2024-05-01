@@ -16,6 +16,6 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor buscando crescer e aprender cada vez 
 ## Entre em Contato
 Você pode me encontrar em:
 - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-maejima/)
-- [Instagram](https://www.instagram.com/felipemaejima/)
+- [Instagram](https://www.instagram.com/felipe_maejima/)
   
 Vamos nos conectar e colaborar em projetos incríveis!
