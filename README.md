@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
-Olá! Eu sou Luiz Felipe, um desenvolvedor buscando crescer e aprender cada vez mais na área de desenvolvimento de sistemas. Você pode conferir alguns dos meus projetos acessando meus repositórios!
+Olá! Eu sou Luiz Felipe, Analista de desenvolvimento com +3 anos de experiência. Você pode conferir alguns dos meus projetos acessando meus repositórios!
 
 ## Estatísticas
 
